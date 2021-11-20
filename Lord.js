@@ -446,7 +446,7 @@ var waktoo = date.getHours();
 •> 25k / BULAN (PREMIUM)
 Isi sendiri
 
-Minat? Pm wa.me/${owner_number}`,
+Minat? Pm wa.me/6281262411188`,
 					ban: 'Maaf Lord Nomor Kamu Sudah Di Banned!',
 					error: 'Error Lord, Mungkin Lagi Diperbaiki',
 					errorLink: 'Link Error Lord',
